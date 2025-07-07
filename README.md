@@ -1,4 +1,4 @@
-## Simple Chatbot for customers
+## 1. Simple Chatbot for customers
 Customers frequently ask about product details, return policies, and technical troubleshooting. Instead of handling every question manually, decided to implement a simple chatbot to provide quick responses.
 
 Your Chatbot Will Handle Queries Like:
