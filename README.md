@@ -9,3 +9,7 @@ Technical Support: “My gadget won’t turn on”, “How do I reset my device?
 ## 2.Predicting Building Energy Efficiency
 Working for an architecture firm, and my task is to build a model that predicts the energy efficiency rating of buildings based on features like wall area, roof area, overall height, etc.
 Used Random Forest Regressor and did few visualizations for insights.
+
+## 3. Vehicle Clustering
+Working for an automotive company, and my task is to cluster vehicles into groups based on their features such as weight, engine size, and horsepower.
+Visualization of unlabeled data into 3 clusters using K-Means Algorithm
